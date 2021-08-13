@@ -1,0 +1,36 @@
+.header-img{
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    height: 200px;
+}
+.header-img img {
+    display: block;
+    width: 100%;
+    margin: -600px 0px;
+
+}
+.navbar {
+    background-color: #14191D;
+}
+.nav-link1 {
+    color: #579564;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 15px 50px 20px;
+    float: left;
+    transition:background .10s ease;
+}
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #C7C49E;
+    border-radius: 3px;
+    background-color: #14191D;
+}
+.text{
+    background-color: #83A38A;
+    color: whitesmoke;
+    padding: 10px;
+    
+}
